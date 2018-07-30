@@ -2,8 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb7e7a97-4e57-4083-bcee-b279e1d89d05" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/WiredTiger.turtle" beforeDir="false" afterPath="$PROJECT_DIR$/db/WiredTiger.turtle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/WiredTiger.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/WiredTiger.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/_mdb_catalog.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/_mdb_catalog.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/collection-11--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/collection-11--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/collection-15--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/collection-15--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/collection-4--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/collection-4--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/collection-55--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/collection-55--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/collection-8--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/collection-8--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/diagnostic.data/metrics.2018-07-30T16-53-02Z-00000" beforeDir="false" afterPath="$PROJECT_DIR$/db/diagnostic.data/metrics.2018-07-30T16-53-02Z-00000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/diagnostic.data/metrics.interim" beforeDir="false" afterPath="$PROJECT_DIR$/db/diagnostic.data/metrics.interim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/index-10--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-10--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/index-12--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-12--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/index-13--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-13--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/index-14--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-14--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/index-16--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-16--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/index-17--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-17--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/index-35--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-35--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/index-36--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-36--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/index-56--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-56--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/index-57--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-57--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/index-7--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-7--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/index-9--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-9--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/journal/WiredTigerLog.0000000001" beforeDir="false" afterPath="$PROJECT_DIR$/db/journal/WiredTigerLog.0000000001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/sizeStorer.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/sizeStorer.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/notes/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/.env" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +50,11 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="env" value="1" />
+          <entry key="gitignore" value="1" />
           <entry key="md" value="1" />
           <entry key="png" value="1" />
-          <entry key="py" value="1" />
+          <entry key="py" value="5" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -33,29 +62,69 @@
         <counts>
           <entry key="Image" value="1" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="1" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="21" />
+          <entry key="env" value="10" />
+          <entry key="py" value="441" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="21" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Python" value="441" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/src/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+            <state relative-caret-position="378">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
+              <folding>
+                <element signature="e#304#313#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/src/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="65" selection-start-column="65" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/src/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#627#659#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/notes/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+                <marker date="1532972423010" expanded="true" signature="181:186" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,7 +137,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/src/urls.py" />
+        <option value="$PROJECT_DIR$/src/notes/models.py" />
         <option value="$PROJECT_DIR$/src/src/settings.py" />
+        <option value="$PROJECT_DIR$/src/src/.env" />
       </list>
     </option>
   </component>
@@ -78,10 +150,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="y" value="25" />
     <option name="width" value="960" />
-    <option name="height" value="1008" />
+    <option name="height" value="1010" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -105,7 +177,7 @@
               <item name="Hello-Django" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hello-Django" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="notes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,10 +217,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1010" extended-state="6" />
+    <frame x="0" y="25" width="960" height="1010" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10992529" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22538294" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -169,11 +241,14 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
-      <window_info anchor="right" id="Terminal" order="6" visible="true" weight="0.44130203" />
+      <window_info anchor="right" id="Terminal" order="6" weight="0.45076588" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -191,10 +266,54 @@
     <entry file="file://$PROJECT_DIR$/success.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/notes/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/notes/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/src/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#627#659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/notes/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <marker date="1532972423010" expanded="true" signature="181:186" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/src/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+        <state relative-caret-position="378">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="e#304#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/src/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="65" selection-start-column="65" selection-end-column="65" />
         </state>
       </provider>
     </entry>
