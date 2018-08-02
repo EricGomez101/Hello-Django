@@ -1,4 +1,10 @@
 db.sqlite3
+#pycharm files
+.idea/
+
+#mongodb
+db/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
