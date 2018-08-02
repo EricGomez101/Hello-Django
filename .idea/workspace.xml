@@ -5,34 +5,24 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/WiredTiger.turtle" beforeDir="false" afterPath="$PROJECT_DIR$/db/WiredTiger.turtle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/WiredTiger.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/WiredTiger.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/_mdb_catalog.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/_mdb_catalog.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/collection-11--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/collection-11--2275079259883365750.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/collection-15--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/collection-15--2275079259883365750.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/collection-2--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/collection-2--2275079259883365750.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/collection-25--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/collection-25--2275079259883365750.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/collection-4--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/collection-4--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/collection-4-869318464149730747.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/collection-4-869318464149730747.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/collection-46--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/collection-46--2275079259883365750.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/collection-51--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/collection-51--2275079259883365750.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/collection-55--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/collection-55--2275079259883365750.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/collection-58--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/collection-58--2275079259883365750.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/collection-8--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/collection-8--2275079259883365750.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/diagnostic.data/metrics.2018-07-30T16-53-02Z-00000" beforeDir="false" afterPath="$PROJECT_DIR$/db/diagnostic.data/metrics.2018-07-30T16-53-02Z-00000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/diagnostic.data/metrics.2018-07-31T16-26-45Z-00000" beforeDir="false" afterPath="$PROJECT_DIR$/db/diagnostic.data/metrics.2018-07-31T16-26-45Z-00000" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/diagnostic.data/metrics.interim" beforeDir="false" afterPath="$PROJECT_DIR$/db/diagnostic.data/metrics.interim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/index-10--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-10--2275079259883365750.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/index-12--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-12--2275079259883365750.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/index-13--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-13--2275079259883365750.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/index-14--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-14--2275079259883365750.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/index-16--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-16--2275079259883365750.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/index-17--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-17--2275079259883365750.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/index-26--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-26--2275079259883365750.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/index-27--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-27--2275079259883365750.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/index-28--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-28--2275079259883365750.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/index-3--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-3--2275079259883365750.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/index-35--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-35--2275079259883365750.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/index-36--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-36--2275079259883365750.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/index-47--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-47--2275079259883365750.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/index-48--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-48--2275079259883365750.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/index-49--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-49--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/index-5-869318464149730747.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-5-869318464149730747.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/index-50--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-50--2275079259883365750.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/index-52--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-52--2275079259883365750.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/index-53--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-53--2275079259883365750.wt" afterDir="false" />
@@ -40,14 +30,15 @@
       <change beforePath="$PROJECT_DIR$/db/index-56--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-56--2275079259883365750.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/index-57--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-57--2275079259883365750.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/index-59--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-59--2275079259883365750.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/index-6-869318464149730747.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-6-869318464149730747.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/index-60--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-60--2275079259883365750.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/index-7--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-7--2275079259883365750.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/index-9--2275079259883365750.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-9--2275079259883365750.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/journal/WiredTigerLog.0000000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/index-7-869318464149730747.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/index-7-869318464149730747.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/journal/WiredTigerLog.0000000002" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/db/mongod.lock" beforeDir="false" afterPath="$PROJECT_DIR$/db/mongod.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/sizeStorer.wt" beforeDir="false" afterPath="$PROJECT_DIR$/db/sizeStorer.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/notes/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/notes/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,11 +64,12 @@
     <session id="1759784294">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -86,7 +78,7 @@
           <entry key="gitignore" value="2" />
           <entry key="md" value="1" />
           <entry key="png" value="1" />
-          <entry key="py" value="6" />
+          <entry key="py" value="7" />
           <entry key="py_notes/Notesdb/notes_note" value="6" />
           <entry key="py_notes/Notesdb/notes_personal_note" value="5" />
           <entry key="py_notes/Notesdb/notes_personalnote" value="1" />
@@ -99,19 +91,19 @@
           <entry key="MONGO" value="12" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="6" />
+          <entry key="Python" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="env" value="24" />
-          <entry key="py" value="698" />
+          <entry key="py" value="1737" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="24" />
-          <entry key="Python" value="698" />
+          <entry key="Python" value="1737" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -122,10 +114,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/src/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
+            <state relative-caret-position="615">
+              <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
               <folding>
                 <element signature="e#304#313#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/notes/api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+                <marker date="1533145918495" expanded="true" signature="274:372" ph="..." />
+                <marker date="1533145918495" expanded="true" signature="502:507" ph="..." />
               </folding>
             </state>
           </provider>
@@ -134,7 +140,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/notes/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="45">
               <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
@@ -146,8 +152,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/src/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="e#627#659#0" expanded="true" />
               </folding>
@@ -155,7 +161,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/notes/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -170,17 +176,25 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/src/urls.py" />
-        <option value="$PROJECT_DIR$/src/src/settings.py" />
         <option value="$PROJECT_DIR$/src/src/.env" />
         <option value="$PROJECT_DIR$/src/notes/models.py" />
         <option value="$PROJECT_DIR$/src/notes/admin.py" />
+        <option value="$PROJECT_DIR$/src/src/settings.py" />
+        <option value="$PROJECT_DIR$/src/src/urls.py" />
+        <option value="$PROJECT_DIR$/src/notes/api.py" />
       </list>
     </option>
   </component>
@@ -193,7 +207,7 @@
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="y" value="25" />
     <option name="width" value="960" />
-    <option name="height" value="1008" />
+    <option name="height" value="1010" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -233,7 +247,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../work/py_algorithms" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -263,8 +277,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="960" height="1008" extended-state="4" />
-    <editor active="true" />
+    <frame x="0" y="25" width="960" height="1010" extended-state="4" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.21006565" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -287,7 +300,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
-      <window_info anchor="right" id="Terminal" order="6" weight="0.93873084" />
+      <window_info anchor="right" id="Terminal" order="6" weight="0.6761488" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" weight="0.21006565" />
@@ -358,27 +371,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/src/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="615">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
           <folding>
             <element signature="e#304#313#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/src/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-          <folding>
-            <element signature="e#627#659#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/notes/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="45">
           <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
@@ -393,6 +396,28 @@
           <folding>
             <element signature="e#0#28#0" expanded="true" />
             <marker date="1533064279845" expanded="true" signature="224:229" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/src/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#627#659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/notes/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+            <marker date="1533145918495" expanded="true" signature="274:372" ph="..." />
+            <marker date="1533145918495" expanded="true" signature="502:507" ph="..." />
           </folding>
         </state>
       </provider>
