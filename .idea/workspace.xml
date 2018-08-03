@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb7e7a97-4e57-4083-bcee-b279e1d89d05" name="Default Changelist" comment="" />
+    <list default="true" id="bb7e7a97-4e57-4083-bcee-b279e1d89d05" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="29" selection-start-column="29" selection-end-column="29" />
+              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -292,7 +294,7 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.20787746" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.20787746" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" />
@@ -436,7 +438,7 @@
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
