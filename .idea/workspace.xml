@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb7e7a97-4e57-4083-bcee-b279e1d89d05" name="Default Changelist" comment="" />
+    <list default="true" id="bb7e7a97-4e57-4083-bcee-b279e1d89d05" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/src/.env" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +44,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Procfile" value="1" />
-          <entry key="env" value="2" />
+          <entry key="env" value="3" />
           <entry key="gitignore" value="2" />
           <entry key="md" value="1" />
           <entry key="png" value="1" />
@@ -58,21 +61,21 @@
           <entry key="Image" value="1" />
           <entry key="MONGO" value="12" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="PLAIN_TEXT" value="10" />
           <entry key="Python" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Procfile" value="18" />
-          <entry key="env" value="57" />
+          <entry key="env" value="61" />
           <entry key="py" value="2310" />
           <entry key="txt" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="106" />
+          <entry key="PLAIN_TEXT" value="110" />
           <entry key="Python" value="2310" />
         </counts>
       </usages-collector>
@@ -81,14 +84,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/src/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1053">
-              <caret line="117" column="17" lean-forward="true" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
+            <state relative-caret-position="360">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
               <folding>
                 <element signature="e#304#313#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/src/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -164,8 +176,8 @@
         <option value="$PROJECT_DIR$/src/notes/models.py" />
         <option value="$PROJECT_DIR$/src/src/urls.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/src/src/settings.py" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/src/src/settings.py" />
         <option value="$PROJECT_DIR$/src/src/.env" />
       </list>
     </option>
@@ -415,13 +427,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/src/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -431,11 +436,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/src/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1053">
-          <caret line="117" column="17" lean-forward="true" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
+        <state relative-caret-position="360">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
           <folding>
             <element signature="e#304#313#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/src/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
